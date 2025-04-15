@@ -1,10 +1,3 @@
-## Todo
-- [x] Modify all function calls to be the same as OneFormer
-- [ ] Add SAM and HQ-SAM
-- [ ] Support DINOSeg with FastSAM and HQ-SAM
-- [x] Create a Colab demo
-- [ ] Add a function to utils for obtaining bbox from mask
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -24,7 +17,7 @@ For detailed installation instructions for PyTorch and Torchvision, refer to the
 Install segment_tools using the following commands:
 
 ```bash
-pip install git+https://github.com/qwertyroiro/segment_tools.git
+pip install git+https://github.com/TadaLabInfo/segment_tools.git
 ```
 
 Ensure all the prerequisites are properly installed to avoid any compatibility issues during the setup process.
